@@ -27,7 +27,6 @@ pub fn is_valid(_s: String) -> bool {
 }
 
 #[cfg(test)]
-
 mod tests {
     use super::*;
 
